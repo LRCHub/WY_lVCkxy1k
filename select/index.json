@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "武装乙女",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-03-12T14:57:40.136903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "武装乙女",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_武装乙女_Chinozo.txt"
+    }
+  ]
+}
